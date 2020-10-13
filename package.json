@@ -1,0 +1,17 @@
+{
+  "name": "casa_ccc_watchdog-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "node main.js"
+  },
+  "author": "hangc",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.738.0",
+    "node-fetch": "^2.6.0",
+    "ring-client-api": "^9.3.3"
+  }
+}
